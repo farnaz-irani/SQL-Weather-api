@@ -24,7 +24,7 @@ We would like to keep track of accumlated flights data (of The Research Center f
   
 
 ### Deliverables
-1. 
+1. Get data 
 2. A .ipynb Notebook containing the code to connect to database as well as API and EDA part.
 3. 10-minutes technical presentation to our colleagues, presenting the results of the data exploration and answering our hypotheses.
 
